@@ -29,6 +29,14 @@ body {
     text-shadow: 2px 2px 4px rgba(255, 107, 129, 0.2); 
 }
 
+.sub_text {
+    font-size: 32px;
+    font-weight: 400;
+    color: #9a5dfd; 
+    margin: 20px 0;
+    text-shadow: 0px 0px 0px rgba(255, 107, 129, 0.2); 
+}
+
 .gif_container {
     display: flex;
     justify-content: center;

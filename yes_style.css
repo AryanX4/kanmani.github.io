@@ -30,9 +30,9 @@ body {
 }
 
 .sub_text {
-    font-size: 32px;
-    font-weight: 400;
-    color: #9a5dfd; 
+    font-size: 28px;
+    font-weight: regular;
+    color: #cb81f5; 
     margin: 20px 0;
     text-shadow: 0px 0px 0px rgba(255, 107, 129, 0.2); 
 }
